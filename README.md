@@ -1,9 +1,8 @@
-<center>
-  <img src="Altera_DE2.jpeg" alt="Altera DE2 Board" width="50%" />
-</center>
-
 # 🚦 FPGA Traffic Light UART
-
+  <center>
+  <img src="Altera_DE2.jpeg" alt="Altera DE2 Board" width="50%" />
+  </center>
+  
 ## Overview
 
 **FPGA Traffic Light UART** is a project implemented entirely in **VHDL** that demonstrates a traffic light control system on an FPGA. The design includes a **UART (Universal Asynchronous Receiver-Transmitter)** interface to enable communication with external devices. This project is designed specifically for the **Altera DE2 FPGA development board**.
