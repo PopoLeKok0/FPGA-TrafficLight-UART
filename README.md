@@ -1,4 +1,6 @@
-![Altera DE2 Board](Assets/image1.jpg)
+<center>
+  <img src="Altera_DE2.jpeg" alt="Altera DE2 Board" width="50%" />
+</center>
 
 # 🚦 FPGA Traffic Light UART
 
